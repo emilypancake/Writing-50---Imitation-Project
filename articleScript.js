@@ -1,4 +1,4 @@
-const CORRECT_PASSWORD = "you are better than an agitator. you are heard.";
+const CORRECT_PASSWORD = "you are better than an agitator.";
 const MAIN_PAGE = "index.html";
 const PASSWORD_PAGE = "password.html";
 

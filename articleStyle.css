@@ -3,3 +3,11 @@ section, nav{
     padding-right: 25vw;
     font-size: 25px;
 }
+
+
+nav a{
+    display: block;
+   text-align: center;
+}
+
+

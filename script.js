@@ -1,9 +1,15 @@
 const guides = [
     {
         url: "guide1.html",
-        title: "header",
-        description: "text",
+        title: "A Beginner's Guide To Becoming an Establishment",
+        description: "For establishments who have failed and want advice, for establishments who are successful and want to keep going, and for young changemakers like you who wish to start your own establishment.",
         image: "https://cdn.britannica.com/42/58842-050-6E524F71/Mandarin-duck-Aix-galericulata.jpg" 
+    },
+    {
+        url: "guide2.html",
+        title: "Second Guide",
+        description: "Short preview summary here.",
+        image: "https://cdn.britannica.com/42/58842-050-6E524F71/Mandarin-duck-Aix-galericulata.jpg"
     },
     {
         url: "guide2.html",
